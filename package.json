@@ -1,33 +1,33 @@
 {
-  "name": "vaxx",
-  "version": "1.0.0",
-  "description": "Stupid simple and lightweight dependency injection",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mikro/vaxx.git"
-  },
-  "keywords": [
-    "mikro",
-    "dependency-injection",
-    "typescript"
-  ],
-  "author": "Felix Wieland",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mikro/vaxx/issues"
-  },
-  "homepage": "https://github.com/mikro/vaxx#readme",
-  "devDependencies": {
-    "@types/node": "^14.14.35",
-    "typescript": "^4.2.3"
-  },
-  "dependencies": {
-    "reflect-metadata": "^0.1.13"
-  }
+	"name": "stepdad",
+	"version": "1.0.0",
+	"description": "Stupid simple and lightweight dependency injection",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mikro/stepdad.git"
+	},
+	"keywords": [
+		"mikro",
+		"dependency-injection",
+		"typescript"
+	],
+	"author": "Felix Wieland",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/mikro/stepdad/issues"
+	},
+	"homepage": "https://github.com/mikro/stepdad#readme",
+	"devDependencies": {
+		"@types/node": "^14.14.35",
+		"typescript": "^4.2.3"
+	},
+	"dependencies": {
+		"reflect-metadata": "^0.1.13"
+	}
 }
