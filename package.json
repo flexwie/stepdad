@@ -1,6 +1,6 @@
 {
 	"name": "stepdad",
-	"version": "1.0.1",
+	"version": "1.0.2-0",
 	"description": "Stupid simple and lightweight dependency injection",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
