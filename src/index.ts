@@ -1,5 +1,5 @@
 import 'reflect-metadata'
 export { Injector } from './container/Injector'
 export { dad } from './container/dad'
-export { Injectable } from './decorators/Injectable'
+export { Inject } from './decorators/Inject'
 export { Releaseable } from './interfaces/Releasable'
