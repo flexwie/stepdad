@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" height="100" src="https://raw.githubusercontent.com/mikro/stepdad/main/assets/Logo_Stepdad_background.png">
+  <img width="100" height="100" src="https://github.com/mikro/stepdad/blob/main/assets/Logo_Stepdad_background.png?raw=true">
 </p>
 
 # stepdad
